@@ -86,6 +86,8 @@ I'm a **Computer Science & Engineering** student at Jalpaiguri Government Engine
 **SAP ABAP Developer Intern** @ [SAP](https://www.sap.com) *(May 2025 – July 2025)*
 - Completed a 3-month hands-on internship in the SAP product ecosystem
 - Developed and tested ABAP programs including modularized reports using multiple INCLUDEs
+- Hands on with SAP echosystem (running SAP in RDP, Maintaining clients' data, handling queries)
+- Used the Propitary Programming Language Developed by SAP 
 
 ---
 
