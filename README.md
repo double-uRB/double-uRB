@@ -113,6 +113,7 @@ class RajeshBarai:
 🤖  Agentic AI   — LLM agents, tool use, multi-agent workflows
 🔗  RAG Pipelines — vector databases, semantic search
 ⚙️  FastAPI       — building REST APIs for AI-powered backends
+☸️  Kubernetes    — container orchestration, scaling deployments 
 🐳  Docker        — containerizing Python & AI applications
 ```
 
