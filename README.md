@@ -78,6 +78,8 @@ class RajeshBarai:
 | 🎵 Audio | MP3 extraction via FFmpeg media pipeline |
 | ⚡ Engine | aria2c multi-connection download engine |
 | 🔗 Extraction | yt-dlp for stream URL parsing & format selection |
+| ⚡ Engine | aria2c multi-threaded download engine — parallel connections for maximum speed |
+| 🛡️ Anti-block | Custom `extractor-args` in `downloader_core.py` mimicking Android & Web player clients to bypass YouTube restrictions |
 | 💾 Storage | Persistent user preferences |
 
 ---
