@@ -98,7 +98,24 @@ class RajeshBarai:
 
 another project comming quick
 
+## 🌐 Sariam Praner Spandan — NGO Website
 
+[![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/PranerSpandan/SariamPranerSpandan)
+[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://github.com/PranerSpandan/SariamPranerSpandan)
+[![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)](https://github.com/PranerSpandan/SariamPranerSpandan)
+[![Sveltia CMS](https://img.shields.io/badge/-Sveltia%20CMS-FF3E00?style=flat-square)](https://github.com/PranerSpandan/SariamPranerSpandan)
+
+A responsive, multi-page website built for a local NGO — featuring a headless CMS, dynamic team management, and automated volunteer onboarding.
+
+| Feature | Details |
+|---|---|
+| 🗂️ Routing | Multi-page architecture via React Router with seamless sub-route management |
+| ⚡ Build | Vite for lightning-fast bundling and automated GitHub Pages deployment |
+| 🔄 Dynamic Data | JSON API fetching for real-time team updates without redeployment |
+| 📝 CMS | Sveltia CMS for headless media and content management |
+| 📬 Onboarding | AJAX/FormSubmit integration for automated volunteer lead-generation flows |
+
+🔗 [View Repository](https://github.com/PranerSpandan/SariamPranerSpandan) · [Live Site](https://pranerSpandan.github.io/SariamPranerSpandan)
 
 ---
 
