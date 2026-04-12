@@ -68,7 +68,7 @@ class RajeshBarai:
 
 ## 📌 Featured Project
 
-### [DownloaderPRO](https://github.com/double-uRB) &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySide6](https://img.shields.io/badge/-PySide6-41CD52?style=flat-square&logo=qt&logoColor=white) ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square) ![aria2](https://img.shields.io/badge/-aria2-333333?style=flat-square) ![yt--dlp](https://img.shields.io/badge/-yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white)
+### [DownloaderPRO](https://github.com/double-uRB/DownloaderPRO) &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySide6](https://img.shields.io/badge/-PySide6-41CD52?style=flat-square&logo=qt&logoColor=white) ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square) ![aria2](https://img.shields.io/badge/-aria2-333333?style=flat-square) ![yt--dlp](https://img.shields.io/badge/-yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white)
 > A modern desktop video downloader with a clean GUI and rich feature set
 
 | Feature | Details |
