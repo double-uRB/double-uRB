@@ -145,7 +145,7 @@ A responsive, multi-page website built for a local NGO — featuring a headless 
 
 <div align="center">
 
-*"Build things that matter. Learn things that last."*
+**"Build things that matter. Learn things that last."**
 
 ⭐ If you find my work useful, consider starring my repositories!
 
