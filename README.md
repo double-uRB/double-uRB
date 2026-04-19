@@ -147,7 +147,7 @@ A responsive, multi-page website built for a local NGO — featuring a headless 
 
 **"Build things that matter. Learn things that last."**
 
-⭐ If you find my work useful, consider starring my repositories!
+*⭐ If you find my work useful, consider starring my repositories!*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajesh-barai)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/double-uRB)
