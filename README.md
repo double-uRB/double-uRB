@@ -139,7 +139,7 @@ A responsive, multi-page website built for a local NGO — featuring a headless 
 ⚙️  FastAPI       — building REST APIs for AI-powered backends
 ☸️  Kubernetes    — container orchestration, scaling deployments 
 🐳  Docker        — containerizing Python & AI applications
-```
+`````
 
 ---
 
