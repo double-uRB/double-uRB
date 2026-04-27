@@ -141,7 +141,7 @@ A responsive, multi-page website built for a local NGO — featuring a headless 
 🐳  Docker        — containerizing Python & AI applications
 `````
 
----
+----
 
 <div align="center">
 
