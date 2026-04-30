@@ -133,7 +133,7 @@ A responsive, multi-page website built for a local NGO — featuring a headless 
 
 ## 🌱 Currently Exploring
 
-```
+````
 🤖  Agentic AI   — LLM agents, tool use, multi-agent workflows
 🔗  RAG Pipelines — vector databases, semantic search
 ⚙️  FastAPI       — building REST APIs for AI-powered backends
