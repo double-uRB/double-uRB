@@ -82,7 +82,7 @@ class RajeshBarai:
 | 🛡️ Anti-block | Custom `extractor-args` in `downloader_core.py` mimicking Android & Web player clients to bypass YouTube restrictions |
 | 💾 Storage | Persistent user preferences |
 
----
+----
 
 ## 📊 GitHub Stats
 
