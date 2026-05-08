@@ -30,7 +30,7 @@ class RajeshBarai:
         self.ask_me     = "Python, PySide6, SAP ABAP, or anything AI"
 ```
 
----
+----
 
 ## 🚀 Tech Stack
 
